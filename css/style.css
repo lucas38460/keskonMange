@@ -14,11 +14,13 @@ text-align: center;
 }
 
 
-section{
-    background-image: url(../img/logo.jpg);
-    background-repeat: no-repeat;
+header{
+    background:url(../img/logo.jpg);
+    text-align: center;
     background-size: contain;
+    background-repeat: no-repeat;
     background-position: center;
+    height: 500px;
 }
 
 h2{
@@ -32,9 +34,14 @@ h1{
 
 #mel {
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 
 input{
+    width: 250px;
+}
+
+#menu{
     display: flex;
+    justify-content: center;
 }
