@@ -3,9 +3,9 @@
 49C:\Users\quentin\codelab\keskonMange\package.json132936388472379394 0
 58C:\Users\quentin\codelab\keskonMange\node_modules\mdn-data132936388351777089 1
 94C:\Users\quentin\codelab\keskonMange\node_modules\caniuse-lite\data\features\feature-policy.js132936388382903112 0
-41C:\Users\quentin\codelab\keskonMange\dist132936390564927409 1
+41C:\Users\quentin\codelab\keskonMange\dist132937050021879671 1
 110C:\Users\quentin\codelab\keskonMange\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js132936388325635512 0
-47C:\Users\quentin\codelab\keskonMange\.gitignore132936389645662129 0
+47C:\Users\quentin\codelab\keskonMange\.gitignore132936417557098926 0
 100C:\Users\quentin\codelab\keskonMange\node_modules\caniuse-lite\data\features\input-file-directory.js132936388389455370 0
 72C:\Users\quentin\codelab\keskonMange\node_modules\parent-module\index.js132936388325062181 0
 73C:\Users\quentin\codelab\keskonMange\node_modules\terser\lib\sourcemap.js132936388359339140 0
@@ -23,7 +23,7 @@
 76C:\Users\quentin\codelab\keskonMange\node_modules\htmlnano\docs\netlify.toml132936388364750294 0
 99C:\Users\quentin\codelab\keskonMange\node_modules\lmdb\prebuilds\darwin-arm64\node.abi72.glibc.node132936388381099662 0
 89C:\Users\quentin\codelab\keskonMange\node_modules\htmlnano\lib\modules\removeUnusedCss.js132936388353140289 0
-47C:\Users\quentin\codelab\keskonMange\index.html132936394219450058 0
+47C:\Users\quentin\codelab\keskonMange\index.html132936448325406933 0
 95C:\Users\quentin\codelab\keskonMange\node_modules\@swc\helpers\lib\_async_generator_delegate.js132936388330157984 0
 89C:\Users\quentin\codelab\keskonMange\node_modules\svgo\plugins\cleanupEnableBackground.js132936388332001421 0
 39C:\Users\quentin\codelab\keskonMange\js132936385367084908 1
@@ -3142,7 +3142,7 @@
 101C:\Users\quentin\codelab\keskonMange\node_modules\caniuse-lite\data\features\text-underline-offset.js132936388404740848 0
 64C:\Users\quentin\codelab\keskonMange\node_modules\.bin\json5.ps1132936388447066455 0
 91C:\Users\quentin\codelab\keskonMange\node_modules\caniuse-lite\data\features\textencoder.js132936388404844119 0
-46C:\Users\quentin\codelab\keskonMange\js\app.js132936385367084908 0
+46C:\Users\quentin\codelab\keskonMange\js\app.js132937049781116162 0
 106C:\Users\quentin\codelab\keskonMange\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.js132936388369312536 0
 86C:\Users\quentin\codelab\keskonMange\node_modules\caniuse-lite\data\features\tls1-1.js132936388405129977 0
 86C:\Users\quentin\codelab\keskonMange\node_modules\caniuse-lite\data\features\tls1-3.js132936388405223629 0
@@ -3571,7 +3571,7 @@
 87C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\transformer-babel\src\flow.js132936388352828572 0
 88C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\core\test\fixtures\main-global132936388379013652 1
 100C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\transformer-babel\src\remapAstLocations.js132936388354155553 0
-60C:\Users\quentin\codelab\keskonMange\dist\index.b2625c6b.css132936388713741909 0
+60C:\Users\quentin\codelab\keskonMange\dist\index.b2625c6b.css132937050021010039 0
 88C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\transformer-babel\src\types.js132936388354606238 0
 106C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js132936388358277793 0
 98C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js132936388340365874 0
@@ -3786,7 +3786,7 @@
 134C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\main.js132936388360970246 0
 139C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json132936388368482524 0
 131C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\bar.js132936388334861931 0
-63C:\Users\quentin\codelab\keskonMange\dist\index.cea00a9b.js.map132936388714416684 0
+63C:\Users\quentin\codelab\keskonMange\dist\index.cea00a9b.js.map132937050021373685 0
 135C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\browser.js132936388336701464 0
 132C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\main.js132936388360541211 0
 134C:\Users\quentin\codelab\keskonMange\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\nested.js132936388362186407 0
@@ -4012,6 +4012,6 @@
 63C:\Users\quentin\codelab\keskonMange\node_modules\.bin\svgo.ps1132936388447092591 0
 61C:\Users\quentin\codelab\keskonMange\node_modules\.bin\terser132936388447087037 0
 65C:\Users\quentin\codelab\keskonMange\node_modules\.bin\terser.cmd132936388447087037 0
-64C:\Users\quentin\codelab\keskonMange\dist\index.b2625c6b.css.map132936388714182938 0
-59C:\Users\quentin\codelab\keskonMange\dist\index.cea00a9b.js132936388714416684 0
-52C:\Users\quentin\codelab\keskonMange\dist\index.html132936390564876687 0
+64C:\Users\quentin\codelab\keskonMange\dist\index.b2625c6b.css.map132937050021102190 0
+59C:\Users\quentin\codelab\keskonMange\dist\index.cea00a9b.js132937050021363314 0
+52C:\Users\quentin\codelab\keskonMange\dist\index.html132937050021787515 0
