@@ -1,15 +1,1 @@
-#aboutMe, #centerMe, .BottomDivRAI{
-    border: solid;
-}
-
-#aboutMe {
-    padding: 4.5rem;
-}
-
-#centerMe {
-    padding: 25px;
-}
-
-.BottomDivRAI {
-    padding: 12px;
-}
+@import '/css/bootstrap.css';
